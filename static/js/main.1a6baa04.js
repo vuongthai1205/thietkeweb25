@@ -6895,14 +6895,14 @@
                             href: "#",
                             target: "_blank",
                             rel: "noopener noreferrer",
-                            children: "BUY $SPCN"
+                            children: "BUY $CHINA"
                         }), (0, s.jsxs)("ul", {
                             className: "tokenomics",
                             children: [(0, s.jsxs)("li", {
                                 children: [(0, s.jsx)("span", {
                                     children: "\u8c61\u5f81"
                                 }), (0, s.jsx)("span", {
-                                    children: "$SPCN"
+                                    children: "$CHINA"
                                 })]
                             }), (0, s.jsxs)("li", {
                                 children: [(0, s.jsx)("span", {
